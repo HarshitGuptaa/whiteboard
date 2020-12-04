@@ -1,0 +1,1 @@
+this app is deployed on heroku and the main .exe app is run through system, whoever has the .exe file 
